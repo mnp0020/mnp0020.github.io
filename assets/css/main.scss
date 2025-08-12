@@ -40,4 +40,10 @@
     "vendor/font-awesome/fontawesome",
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
+
 ;
+
+.disabled {
+  pointer-events: none; /* makes it not clickable */
+  opacity: 0.5;         /* makes it look faded */
+}
