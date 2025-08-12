@@ -9,15 +9,15 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: "#" # /publications/
     class: "disabled"
 
   - title: "Talks"
-    url: /talks/
+    url: "#" # /talks/
     class: "disabled"    
 
   - title: "Teaching"
-    url: /teaching/
+    url: "#" # /teaching/
     class: "disabled"    
     
   # - title: "Portfolio"
@@ -27,7 +27,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: "#" # /cv/
     class: "disabled"
     
   # - title: "CV"
