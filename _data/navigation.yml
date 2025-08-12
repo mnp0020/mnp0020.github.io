@@ -9,8 +9,7 @@
 
 main:
   - title: "Publications"
-    url: "#" # /publications/
-    class: "disabled"
+    url: /publications/
 
   # - title: "Talks"
   #   url: "#" # /talks/
