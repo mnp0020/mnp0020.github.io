@@ -17,11 +17,11 @@ main:
 
   - title: "Teaching"
     url: "#" # /teaching/
-    # class: "disabled"    
+    class: "disabled"    
 
   - title: "Side Quests"
-  url: "#" # /fun-projects/
-  # class: "disabled"   
+    url: "#" # /fun-projects/
+    class: "disabled"   
     
   # - title: "Portfolio"
   #   url: /portfolio/
@@ -31,7 +31,7 @@ main:
     
   - title: "CV"
     url: "#" # /cv/
-    # class: "disabled"
+    class: "disabled"
     
   # - title: "CV"
   #   url: /cv-json/
