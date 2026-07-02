@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching assistant, graduate course"
 # permalink: /teaching/2025-Foundations-ML
 venue: "University of Washington, College of Engineering"
-date: 2025 Fall
+date: 2025-09
 location: "Seattle, WA"
 ---
 
