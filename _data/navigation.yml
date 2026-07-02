@@ -11,17 +11,17 @@ main:
   - title: "Publications"
     url: /publications/
 
-  # - title: "Talks"
-  #   url: "#" # /talks/
-  #   class: "disabled"    
+  - title: "Talks"
+    url: "/talks/" # "#"
+    # class: "disabled"    
 
   - title: "Teaching"
     url: /teaching/ # "#"
     # class: "disabled"    
 
-  - title: "Side Quests"
-    url: "#" # /fun-projects/
-    class: "disabled"   
+  # - title: "Side Quests"
+  #   url: "#" # /fun-projects/
+  #   class: "disabled"   
     
   # - title: "Portfolio"
   #   url: /portfolio/
