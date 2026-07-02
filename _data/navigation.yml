@@ -12,7 +12,7 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: "/talks/" # "#"
+    url: /talks/ # "#"
     # class: "disabled"    
 
   - title: "Teaching"
@@ -24,17 +24,17 @@ main:
   #   class: "disabled"   
     
   # - title: "Portfolio"
-  #   url: /portfolio/
+  #   url: /portfolio/ # "#"
         
   # - title: "Blog Posts"
-  #   url: /year-archive/
+  #   url: /year-archive/ # "#"
     
   - title: "CV"
-    url: "#" # /cv/
-    class: "disabled"
+    url: /cv/ # "#"
+    # class: "disabled"
     
-  # - title: "CV"
-  #   url: /cv-json/
+  - title: "CV"
+    url: /cv-json/ # "#"
     
   # - title: "Guide"
-  #   url: /markdown/
+  #   url: /markdown/ # "#"
