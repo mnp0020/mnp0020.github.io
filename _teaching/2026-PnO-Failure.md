@@ -2,7 +2,7 @@
 title: "Engineering Principles of Material Failure"
 collection: teaching
 type: "Guest lecture, graduate course"
-permalink: /teaching/2014-spring-teaching-1
+# permalink: /teaching/2026-PnO-Failure
 venue: "University of Washington, Prosthetics and Orthotics"
 date: 2026-04-16
 location: "Seattle, WA"
