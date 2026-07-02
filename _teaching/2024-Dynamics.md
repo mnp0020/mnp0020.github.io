@@ -10,4 +10,4 @@ location: "Seattle, WA"
 
 This introductory engineering course covered kinematics and kinetics of particles rigid bodies in fixed and moving reference frames. 
 Teaching assistant responsibilities included hosting weekly office hours (often 20+ attendees), grading assignments, and preparing weekly review sessions to hone problem-solving skills.
-I served as a teaching assistant in Winter 2023 and @inter 2024, and I gave substitue lectures for (1) Newton's 2nd Law of Motion and (2) Work-Energy Theorem and Power.
+I served as a teaching assistant in Winter 2023 and Winter 2024, and I gave substitue lectures for (1) Newton's 2nd Law of Motion and (2) Work-Energy Theorem and Power.
