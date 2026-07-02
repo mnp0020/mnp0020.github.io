@@ -2,7 +2,7 @@
 title: "Leveraging Sparse Sensing to Infer Motion in Performance and Rehabilitation"
 collection: talks
 type: "Talk"
-permalink: /talks/2024-Human-Performance
+permalink: /talks/2024-07-14-Human-Performance
 venue: "Frontiers in Human Performance 2024"
 date: 2024-07-14
 location: "Jackson, WY, USA"
