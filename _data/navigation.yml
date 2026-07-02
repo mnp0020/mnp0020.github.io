@@ -16,7 +16,7 @@ main:
   #   class: "disabled"    
 
   - title: "Teaching"
-    url: "#" # /teaching/
+    url: /teaching/ # "#"
     class: "disabled"    
 
   - title: "Side Quests"
