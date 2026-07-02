@@ -2,7 +2,7 @@
 title: "Structure, Function, and Properties of Muscle"
 collection: teaching
 type: "Guest lecture, graduate course"
-# permalink: /teaching/2015-spring-teaching-1
+# permalink: /teaching/2026-MSK-Biomechanics-Muscle
 venue: "University of Washington, Mechanical Engineering"
 date: 2026-01-29
 location: "Seattle, WA"
