@@ -2,7 +2,7 @@
 title: "Evaluating Sparse Inertial Measurement Unit Configurations for Inferring Treadmill Running Motion"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-03-27-SHRED-Running
+permalink: /publications/2025-03-27-SHRED-Running
 excerpt: 'This paper leverages Shallow Recurrent Decoder networks to reconstruct data from IMUs, varying different experimental parameters to evaluate accuracy.'
 date: 2025-03-27
 venue: 'Sensors'
