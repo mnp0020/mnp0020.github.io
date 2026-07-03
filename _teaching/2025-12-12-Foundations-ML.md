@@ -2,10 +2,10 @@
 title: "Fonudations of Machine Learning for Engineers"
 collection: teaching
 type: "Teaching assistant, graduate course"
-# permalink: /teaching/2025-12-12-Foundations-ML
+permalink: /teaching/2025-12-12-Foundations-ML
 venue: "University of Washington, College of Engineering"
 date: 2025-12-12
-location: "Seattle, WA"
+location: "Seattle, WA, USA"
 ---
 
 This course introduced students to foundational principles for the following topics: regression, classification, clustering, neural networks, probability & statistics, and ordinary differential equations. 
