@@ -2,7 +2,7 @@
 title: "Fonudations of Machine Learning for Engineers"
 collection: teaching
 type: "Teaching assistant, graduate course"
-# permalink: /teaching/2025-Foundations-ML
+# permalink: /teaching/2025-12-12-Foundations-ML
 venue: "University of Washington, College of Engineering"
 date: 2025-12-12
 location: "Seattle, WA"
